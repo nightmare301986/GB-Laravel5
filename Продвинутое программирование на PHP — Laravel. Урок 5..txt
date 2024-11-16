@@ -1,0 +1,6 @@
+Приветствую. Студент Евгений Пахомов.
+Продвинутое программирование на PHP — Laravel
+Урок 5. Обработка запроса (Request)
+
+Мой репозиторий (github.com):
+https://github.com/nightmare301986/GB-Laravel4/tree/main
